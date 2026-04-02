@@ -7,8 +7,6 @@ let productos = [
 let carrito = [];
 let opcion;
 
-
-
 do{
     opcion = prompt(mostrarMenu());
     opcion = parseInt(opcion);
